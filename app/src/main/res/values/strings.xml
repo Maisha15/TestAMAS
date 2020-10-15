@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cuestionario AMAS-C</string>
+    <string name="boton_captura">Captura de datos</string>
+    <string name="boton_amas">Cuestionario AMAS</string>
+    <string name="botonverresultados">Ver resultados de AMAS-C </string>
+    <string name="capturanombre">Nombre : </string>
+    <string name="capturamat">Matrícula : </string>
+    <string name="capturacorreo">Correo electrónico : </string>
+</resources>
